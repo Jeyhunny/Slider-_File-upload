@@ -1,0 +1,733 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\EntityFramework-Slider.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EntityFramework-Slider.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Admin\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Admin\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\Admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\blog-feature-img-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-feature-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\blog-feature-img-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-feature-img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\blog-feature-img-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog-feature-img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\footer-bottom-1.png",
+      "PackagePath": "staticwebassets\\img\\footer-bottom-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h1-custom-icon.png",
+      "PackagePath": "staticwebassets\\img\\h1-custom-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h2-sign-img.png",
+      "PackagePath": "staticwebassets\\img\\h2-sign-img.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-background-img.jpg",
+      "PackagePath": "staticwebassets\\img\\h3-background-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-slider-background-2.jpg",
+      "PackagePath": "staticwebassets\\img\\h3-slider-background-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-slider-background-3.jpg",
+      "PackagePath": "staticwebassets\\img\\h3-slider-background-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-slider-background.jpg",
+      "PackagePath": "staticwebassets\\img\\h3-slider-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-team-img-1.png",
+      "PackagePath": "staticwebassets\\img\\h3-team-img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-team-img-2.png",
+      "PackagePath": "staticwebassets\\img\\h3-team-img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-team-img-3.png",
+      "PackagePath": "staticwebassets\\img\\h3-team-img-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-team-img-4.png",
+      "PackagePath": "staticwebassets\\img\\h3-team-img-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\h3-video-img.jpg",
+      "PackagePath": "staticwebassets\\img\\h3-video-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\instagram1.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\instagram2.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\instagram3.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\instagram4.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\instagram5.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\instagram6.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\instagram7.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\instagram8.jpg",
+      "PackagePath": "staticwebassets\\img\\instagram8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-10-img.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-10-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-11-img.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-11-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-12-img.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-12-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-13-img.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-13-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-14-img.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-14-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-7-img.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-7-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-8-img.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-8-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-9-img.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-9-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-category-img-1.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-category-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-category-img-2.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-category-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-category-img-3.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-category-img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-category-img-4.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-category-img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-category-img-5.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-category-img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\shop-category-img-6.jpg",
+      "PackagePath": "staticwebassets\\img\\shop-category-img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\testimonial-img-1.png",
+      "PackagePath": "staticwebassets\\img\\testimonial-img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\img\\testimonial-img-2.png",
+      "PackagePath": "staticwebassets\\img\\testimonial-img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\owlcarousel\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\owlcarousel\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\owlcarousel\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\owlcarousel\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\lib\\_common.scss",
+      "PackagePath": "staticwebassets\\sass\\lib\\_common.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\lib\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\lib\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\lib\\_varibales.scss",
+      "PackagePath": "staticwebassets\\sass\\lib\\_varibales.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_about.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_about.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_accordion.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_blog.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_experts.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_experts.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_footer.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_header.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_instagram.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_instagram.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_product-list.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_product-list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_product.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_product.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_progress.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_say.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_say.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_shop-list.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_shop-list.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_slider.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_subscribe.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_subscribe.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\sections\\_tab.scss",
+      "PackagePath": "staticwebassets\\sass\\sections\\_tab.scss"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\Desktop\\Developer\\Back-End\\Category-crud-FiorelloApp\\EntityFramework-Slider\\EntityFramework-Slider\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.EntityFramework-Slider.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.EntityFramework-Slider.props",
+      "PackagePath": "build\\EntityFramework-Slider.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.EntityFramework-Slider.props",
+      "PackagePath": "buildMultiTargeting\\EntityFramework-Slider.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.EntityFramework-Slider.props",
+      "PackagePath": "buildTransitive\\EntityFramework-Slider.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
